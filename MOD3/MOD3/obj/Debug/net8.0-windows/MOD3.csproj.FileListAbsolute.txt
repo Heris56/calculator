@@ -1,0 +1,16 @@
+D:\MOD3\MOD3\bin\Debug\net8.0-windows\MOD3.exe
+D:\MOD3\MOD3\bin\Debug\net8.0-windows\MOD3.deps.json
+D:\MOD3\MOD3\bin\Debug\net8.0-windows\MOD3.runtimeconfig.json
+D:\MOD3\MOD3\bin\Debug\net8.0-windows\MOD3.dll
+D:\MOD3\MOD3\bin\Debug\net8.0-windows\MOD3.pdb
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.Form1.resources
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.csproj.GenerateResource.cache
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.AssemblyInfoInputs.cache
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.AssemblyInfo.cs
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.csproj.CoreCompileInputs.cache
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.dll
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\refint\MOD3.dll
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.pdb
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\MOD3.genruntimeconfig.cache
+D:\MOD3\MOD3\obj\Debug\net8.0-windows\ref\MOD3.dll
